@@ -4,9 +4,9 @@
   <artifactId>opencartV121</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-   <build>
+   <!--build-->
     <!-- To define the plugin version in your parent POM -->
-    <pluginManagement>
+    <!--pluginManagement>
       <plugins>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
@@ -26,7 +26,7 @@
         </plugin>
       </plugins>
     </pluginManagement>
-  </build>
+  </build-->
   
   
   <dependencies>
